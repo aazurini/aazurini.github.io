@@ -8,11 +8,10 @@ body {
 header {
   background-color: lavender;
   font-size: 18px;
-  padding-top: 10px;
-  padding-bottom: 10px;
-  padding-left: 10%;
-  padding-right: 10%;
-  margin-bottom: 15px;
+   padding-top: 10px;
+  padding-bottom: 8px;
+   padding-left: 0%;
+  padding-right: 0%;
   text-align: center;
 }
 
@@ -61,6 +60,6 @@ p {
   padding-left: 10%;
   padding-right: 10%;
   margin-bottom: 15px;
-  text-align: center;
+  text-align: left;
 }
 
